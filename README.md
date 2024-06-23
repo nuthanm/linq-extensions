@@ -48,7 +48,7 @@ This demo project leverages the following technologies:
   - [ ] [ToDictionary](demos-linq-extensions/Extensions/ConversionMethods/ToDictionaryDemo.cs)
   - [ ] [ToHashSet](demos-linq-extensions/Extensions/ConversionMethods/ToHashSetDemo.cs)
   - [ ] [ToList](demos-linq-extensions/Extensions/ConversionMethods/ToListDemo.cs)
-  - [ ] [ToLookup](demos-linq-extensions/Extensions/ConversionMethods/ToLookupDemo.cs)
+  - [ ] [ToLookup](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToLookupDemo.cs)
 ## References
 [Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
 
