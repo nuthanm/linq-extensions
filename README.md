@@ -15,6 +15,17 @@ This is a public repository on GitHub that serves as a central location for reus
 - **Enhanced Code Maintainability:** Easier maintenance as common functionalities are centralized and well-documented.
 - **Knowledge Sharing:** The repository fosters knowledge sharing within the developer community by providing a platform for learning and exploring LINQ extensions.
 
+## Development Environment and Dependencies
+
+This demo project leverages the following technologies:
+
+* **.NET Framework:** 8 (or later)
+* **Programming Language:** C#
+* **IDE:** Visual Studio 2022 Community (or later)
+* **NuGet Package:** [Dumpify](https://www.nuget.org/packages/Dumpify) (for enhanced output visualization)
+
+**Note:** While these demos are designed for the specified environment, you might be able to adapt them to similar .NET frameworks and IDEs.
+
 ## References
 [Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
 
