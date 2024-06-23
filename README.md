@@ -6,7 +6,6 @@ This is a public repository on GitHub that serves as a central location for reus
 - **Collection of LINQ Extensions:** The repository will house a variety of LINQ extension methods that address common data manipulation tasks.
 - **Clear Documentation:** Each extension method will be accompanied by detailed documentation explaining its purpose, usage, and parameters.
 - **Example Code:** Comprehensive code examples will showcase how to implement each extension method in real-world scenarios.
-- **Easy Contribution:** The repository will be open for contributions, allowing developers to share their own useful LINQ extensions with the community.
 
 ## Benefits:
 
@@ -50,6 +49,82 @@ This demo project leverages the following technologies:
   - [ ] [ToList](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToListDemo.cs)
   - [ ] [ToLookup](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToLookupDemo.cs)
 
+**ElementOperators**
+  - [ ] [DefaultIfEmpty](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/DefaultIfEmptyDemo.cs)
+  - [ ] [ElementAt](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/ElementAtDemo.cs)
+  - [ ] [ElementAtOrDefault](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/ElementAtOrDefaultDemo.cs)
+  - [ ] [First](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/FirstDemo.cs)
+  - [ ] [FirstOrDefault](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/FirstOrDefaultDemo.cs)
+  - [ ] [Last](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/LastDemo.cs)
+  - [ ] [LastOrDefault](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/LastOrDefaultDemo.cs)
+  - [ ] [Single](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/SingleDemo.cs)
+  - [ ] [SingleOrDefault](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ElementOperators/SingleOrDefaultDemo.cs)
+
+**Existance Or Quantity Checks**
+  - [ ] [All](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Existance_Or_QuantityChecks/AllDemo.cs)
+  - [ ] [Any](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Existance_Or_QuantityChecks/AnyDemo.cs)
+  - [ ] [Contains](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Existance_Or_QuantityChecks/ContainsDemo.cs)
+
+  **Generations**
+  - [ ] [AsEnumerable](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/GenerationMethods/AsEnumerableDemo.cs)
+  - [ ] [AsQueryable](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/GenerationMethods/AsQueryableDemo.cs)
+  - [ ] [Empty](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/GenerationMethods/EmptyDemo.cs)
+  - [ ] [Range](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/GenerationMethods/RangeDemo.cs)
+  - [ ] [Repeat](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/GenerationMethods/RepeatDemo.cs)
+
+  **Join or Group**
+  - [ ] [Concat](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Join_and_GroupMethods/ConcatDemo.cs)
+  - [ ] [GroupBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Join_and_GroupMethods/GroupByDemo.cs)
+  - [ ] [GroupJoin](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Join_and_GroupMethods/GroupJoinDemo.cs)
+  - [ ] [Join](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Join_and_GroupMethods/JoinDemo.cs)
+  - [ ] [Zip](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Join_and_GroupMethods/ZipDemo.cs)
+
+  **Parallel Linq Or PLINQ**
+  - [ ] [AsOrdered](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Parallel%20Linq%20Methods/AsOrderedDemo.cs)
+  - [ ] [AsParallel](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Parallel%20Linq%20Methods/AsParallelDemo.cs)
+  - [ ] [WithDegreeOfParallelism](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Parallel%20Linq%20Methods/WithDegreeOfParallelismDemo.cs)
+  - [ ] [WithExcecutionMode](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Parallel%20Linq%20Methods/WithExcecutionModeDemo.cs)
+  - [ ] [WithMergeOptions](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Parallel%20Linq%20Methods/WithMergeOptionsDemo.cs)
+
+  **Partitions**
+  - [ ] [Skip](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Partitions/SkipDemo.cs)
+  - [ ] [SkipLast](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Partitions/SkipLastDemo.cs)
+  - [ ] [SkipWhile](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Partitions/SkipWhileDemo.cs)
+  - [ ] [Take](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Partitions/TakeDemo.cs)
+  - [ ] [TakeLast](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Partitions/TakeLastDemo.cs)
+  - [ ] [TakeWhile](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Partitions/TakeWhileDemo.cs)
+
+  **Projection**
+
+  - [ ] [Cast](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Projection/CastDemo.cs)
+  - [ ] [Chunck](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Projection/ChunckDemo.cs)
+  - [ ] [Select](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Projection/SelectDemo.cs)
+  - [ ] [SelectMany](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/Projection/SelectManyDemo.cs) 
+
+  **Sequence Manipulation**
+  - [ ] [Append](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SequenceManipulation/AppendDemo.cs)
+  - [ ] [Prepend](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SequenceManipulation/PrependDemo.cs)
+
+  **Set Operations**
+  - [ ] [DistinctBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/DistinctByDemo.cs)
+  - [ ] [Distinct](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/DistinctDemo.cs)
+  - [ ] [ExceptBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/ExceptByDemo.cs)
+  - [ ] [Except](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/ExceptDemo.cs)
+  - [ ] [IntersectBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/IntersectByDemo.cs)
+  - [ ] [Intersect](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/IntersectDemo.cs)
+  - [ ] [SequenceEqual](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/SequenceEqualDemo.cs)
+  - [ ] [UnionBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/UnionByDemo.cs)
+  - [ ] [Union](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SetOperations/UnionDemo.cs)
+
+ **Sort Operations**
+  - [ ] [OrderBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/OrderByDemo.cs)
+  - [ ] [OrderByDescending](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/OrderByDescendingDemo.cs)
+  - [ ] [Order](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/OrderDemo.cs)
+  - [ ] [OrderDescending](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/OrderDescendingDemo.cs)
+  - [ ] [Reverse](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/ReverseDemo.cs)
+  - [ ] [ThenBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/ThenByDemo.cs)
+  - [ ] [ThenByDescending](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/SortMethods/ThenByDescendingDemo.cs)
+  
 ## References
 [Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
 
