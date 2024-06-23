@@ -15,4 +15,7 @@ This is a public repository on GitHub that serves as a central location for reus
 - **Enhanced Code Maintainability:** Easier maintenance as common functionalities are centralized and well-documented.
 - **Knowledge Sharing:** The repository fosters knowledge sharing within the developer community by providing a platform for learning and exploring LINQ extensions.
 
+## References
+[Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
+
 This repository can be a valuable asset for anyone working with C# and LINQ, from beginners seeking to understand the basics to experienced developers looking to expand their toolkit.
