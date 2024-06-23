@@ -32,23 +32,24 @@ This demo project leverages the following technologies:
    - [ ] [OfType](demos-linq-extensions/demos-linq-extensions/Extensions/Filtering/OfTypeDemo.cs)
 
 **Aggregation**
-   - [ ] [Aggregate](demos-linq-extensions/Extensions/AggregationMethods/AggregateDemo.cs)
-   - [ ] [Average](demos-linq-extensions/Extensions/AggregationMethods/AverageDemo.cs)
-   - [ ] [Count](demos-linq-extensions/Extensions/AggregationMethods/CountDemo.cs)
-   - [ ] [LongCount](demos-linq-extensions/Extensions/AggregationMethods/LongCountDemo.cs)
-   - [ ] [Max](demos-linq-extensions/Extensions/AggregationMethods/MaxDemo.cs)
-   - [ ] [MaxBy](demos-linq-extensions/Extensions/AggregationMethods/MaxByDemo.cs)
-   - [ ] [Min](demos-linq-extensions/Extensions/AggregationMethods/MinDemo.cs)
-   - [ ] [MinBy](demos-linq-extensions/Extensions/AggregationMethods/MinByDemo.cs)
-   - [ ] [Sum](demos-linq-extensions/Extensions/AggregationMethods/SumDemo.cs)
-   - [ ] [TryGetNonEnumerated](demos-linq-extensions/Extensions/AggregationMethods/TryGetNonEnumeratedDemo.cs)
+   - [ ] [Aggregate](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/AggregateDemo.cs)
+   - [ ] [Average](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/AverageDemo.cs)
+   - [ ] [Count](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/CountDemo.cs)
+   - [ ] [LongCount](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/LongCountDemo.cs)
+   - [ ] [Max](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/MaxDemo.cs)
+   - [ ] [MaxBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/MaxByDemo.cs)
+   - [ ] [Min](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/MinDemo.cs)
+   - [ ] [MinBy](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/MinByDemo.cs)
+   - [ ] [Sum](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/SumDemo.cs)
+   - [ ] [TryGetNonEnumerated](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/AggregationMethods/TryGetNonEnumeratedDemo.cs)
 
 **Conversions**
-  - [ ] [ToArray](demos-linq-extensions/Extensions/ConversionMethods/ToArrayDemo.cs)
-  - [ ] [ToDictionary](demos-linq-extensions/Extensions/ConversionMethods/ToDictionaryDemo.cs)
-  - [ ] [ToHashSet](demos-linq-extensions/Extensions/ConversionMethods/ToHashSetDemo.cs)
-  - [ ] [ToList](demos-linq-extensions/Extensions/ConversionMethods/ToListDemo.cs)
+  - [ ] [ToArray](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToArrayDemo.cs)
+  - [ ] [ToDictionary](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToDictionaryDemo.cs)
+  - [ ] [ToHashSet](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToHashSetDemo.cs)
+  - [ ] [ToList](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToListDemo.cs)
   - [ ] [ToLookup](https://github.com/nuthanm/linq-extensions/blob/main/demos-linq-extensions/demos-linq-extensions/Extensions/ConversionMethods/ToLookupDemo.cs)
+
 ## References
 [Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
 
