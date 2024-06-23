@@ -128,4 +128,12 @@ This demo project leverages the following technologies:
 ## References
 [Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
 
+[Microsoft official - LINQ](https://learn.microsoft.com/en-us/dotnet/standard/linq/)
+
+[101 Linq Samples](https://github.com/dotnet/try-samples#basics)
+
+## Tools
+[LinqPad](https://www.linqpad.net/)
+
+##
 This repository can be a valuable asset for anyone working with C# and LINQ, from beginners seeking to understand the basics to experienced developers looking to expand their toolkit.
