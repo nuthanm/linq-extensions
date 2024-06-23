@@ -26,6 +26,12 @@ This demo project leverages the following technologies:
 
 **Note:** While these demos are designed for the specified environment, you might be able to adapt them to similar .NET frameworks and IDEs.
 
+### LINQ Extensions
+**Filtering**
+   - [ ] [Where](demos-linq-extensions/demos-linq-extensions/Extensions/Filtering/WhereDemo.cs)
+   - [ ] [OfType](demos-linq-extensions/demos-linq-extensions/Extensions/Filtering/OfTypeDemo.cs)
+
+
 ## References
 [Amichai Mantinband - Youtube](https://www.youtube.com/watch?v=7-P6Mxl5elg&t=741s)
 
